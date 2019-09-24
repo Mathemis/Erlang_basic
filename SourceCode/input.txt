@@ -1,0 +1,7 @@
+6
+1712003, Vu Anh Quan, 8.9
+1712033, Nguyen Van Chung, 8.7
+1712033, Hoang Trong Quynh, 9.1
+1712038, Dinh quang Huy, 8.5
+1712039, Dinh Quang Hoang, 8.8
+1712044, Cong Hoang, 9.0

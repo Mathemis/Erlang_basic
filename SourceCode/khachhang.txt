@@ -1,0 +1,7 @@
+6
+KH17120, Vu Anh Quan, 1991, 1000
+KH17121, Nguyen Van Chung, 1978, 2000
+KH17123, Hoang Trong Quynh, 1987, 2400
+KH17138, Dinh quang Huy, 2000, 300
+KH17139, Dinh Quang Hoang , 1968, 3000
+KH17144, Cong Hoang, 1995, 1400
